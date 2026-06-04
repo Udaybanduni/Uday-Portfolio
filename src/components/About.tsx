@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Uday Banduni, currently  in 2nd-year pursuing B.Tech in Computer Science Engineering  (AI) at KIET Group of Institutions, building full-stack web apps and exploring AI/ML integration.
         </p>
       </div>
     </div>
