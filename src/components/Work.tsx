@@ -8,6 +8,14 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 const projects = [
   {
+    title: "AI Code Reviewer",
+    category: "Full-Stack AI Developer Tool",
+    tech: "React 18, Vite, Node.js, Express, MongoDB Atlas, JWT, Monaco Editor, OpenRouter API",
+    image: "/images/aicode-reviewer.png",
+    link: "https://ai-code-reviewer-three-hazel.vercel.app/",
+    github: "https://github.com/Udaybanduni/Ai-Code-Reviewer",
+  },
+  {
     title: "TalentPulse AI",
     category: "AI-Powered HR Tech",
     tech: "React, Node.js, Express, MongoDB, JWT, OpenRouter API",
